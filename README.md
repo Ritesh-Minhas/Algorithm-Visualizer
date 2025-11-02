@@ -6,4 +6,5 @@
 <UL>
   <LI>Leveraged streamlit to build the UI.</LI>
   <LI>Leveraged ploty to build visuals for the Algorithm Analysis.</LI>
+  <LI>Leveraged numpy to create data for visualizing the Algorithms.</LI>
 </UL>
